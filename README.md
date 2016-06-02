@@ -5,4 +5,8 @@ This app is for those people who have a hard time making decisions. It allows th
 
 Rough wireframes:
 
+Key use cases:
+
+https://github.com/nvisanji/cant_decide/blob/master/01.JPG?raw=true
+
 
