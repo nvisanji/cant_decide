@@ -1,4 +1,11 @@
 # cant_decide
+
+Update 6/9/2016:
+Posted wireframes of our use cases (Can't Decide - wires.png).  For our core cases we would be "faking" data input.  Our stretch would be to make the data input real.  
+Use cases:
+![Wire 1](https://github.com/nvisanji/cant_decide/blob/master/01.JPG?raw=true)
+
+
 iOS for designers group project
 
 This app is for those people who have a hard time making decisions. It allows the user to create a collection with tasks or items added to their collections. The user can then use the built in planning or selection tool to choose a specific task to complete based on the time they have, or to plan a series of tasks within a collection to create a roadmap.
